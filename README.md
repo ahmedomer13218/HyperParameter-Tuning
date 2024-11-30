@@ -53,4 +53,16 @@ Dataset: [https://www.kaggle.com/datasets/naiyakhalid/flood-prediction-dataset](
 ```bash  
 git clone https://github.com/ahmedomer13218/HyperParameter-Tuning_regression-example.git  
 
-cd HyperParameter-Tuning_regression-example  
+cd HyperParameter-Tuning_regression-example
+```
+### Usage
+- run the notebook
+
+### Contributing
+We welcome contributions! If you'd like to contribute, please fork the repository and submit a pull request.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### 
+This repository demonstrates the journey from manual hyperparameter tuning to automated optimization, showcasing practical applications of tuning techniques for regression models. 🎯
